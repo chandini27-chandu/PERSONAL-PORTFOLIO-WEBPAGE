@@ -30,3 +30,18 @@ The entire portfolio is designed using only HTML and CSS without relying on exte
 
 Overall, this Personal Portfolio Webpage successfully fulfills the requirements of the internship task by demonstrating front-end web development skills, responsive design principles, and professional presentation. The project serves as an effective digital portfolio that showcases technical abilities, completed projects, and career aspirations while providing a strong foundation for future enhancements and professional growth.
 
+# OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7cc0b24d-942e-4ca2-8dd5-0fd4e562dad7" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/64b0afcd-8a5b-43d2-9960-ffa0c5665589" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/634f7684-6195-4382-a244-ece3fe036e28" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/027a0ab1-0b9f-41cf-906b-60a7d9a16262" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c0d1f068-8904-4590-8299-3066b489375a" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c8cec56-9415-4d0b-84d4-ed5ef1d22b4c" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa2ea48e-d3c1-4b49-bfb7-59ab25b466a1" />
